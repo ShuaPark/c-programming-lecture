@@ -22,3 +22,21 @@ int main(void) {
     // 코드 작성 영역
     return 0;
 }
+
+## 2. C Program Structure (기본 구조)
+
+C 프로그램은 아래와 같은 구조로 이루어져 있습니다.
+
+```c
+#include <stdio.h>
+
+int main(void) {
+    // 코드 작성 영역
+    return 0;
+}
+```
+
+### 핵심 개념
+- `#include <stdio.h>` : 표준 입출력 라이브러리 포함
+- `int main(void)` : 프로그램 시작 지점
+- `return 0;` : 프로그램 정상 종료
